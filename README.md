@@ -1,6 +1,6 @@
-## Modelo para la predicción de precios de propiedades a partir de la base de datos de Properaty
+## Modelo para la predicción de precios de propiedades a partir de la base de datos de Properati
 
-El objetivo de estos proyectos es desarrollar un modelo para la predicción de precios de propiedades a partir de la [base de datos de properaty](https://drive.google.com/uc?export=download&id=1Ugbsw5XbNRbglomSQO1qkAgMFB_3BzmB). Estos fueron desarrollados como la primera y segunda entrega del curso de Data Science de la plataforma de enseñanza [Acamica](https://www.acamica.com/)
+El objetivo de estos proyectos es desarrollar un modelo para la predicción de precios de propiedades a partir de la [base de datos de properati](https://drive.google.com/uc?export=download&id=1Ugbsw5XbNRbglomSQO1qkAgMFB_3BzmB). Estos fueron desarrollados como la primera y segunda entrega del curso de Data Science de la plataforma de enseñanza [Acamica](https://www.acamica.com/)
 
 Son desarrollados en lenguaje Python y utiliza las librerias Numpy, Pandas, Matplotlib, Seaborn y Sklearn
 
